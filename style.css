@@ -578,7 +578,7 @@ a:visited {
 }
 
 #container:not(.anima-landing-page) .main {
-	padding-top: 4em;
+	padding-top: 0em;
 	padding-bottom: 2.5em;
 }
 
@@ -3670,7 +3670,6 @@ a.staticslider-button:nth-child(2n+2),
 	float: none;
 	clear: both;
 	width: 100%;
-	padding: 4em 0;
 	overflow: hidden;
 	background-attachment: fixed;
 	background-position : top center;
