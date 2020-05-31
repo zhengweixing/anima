@@ -6778,7 +6778,7 @@ body.mobile .main {min-height:0;}
 
 /* FIN! */
 @media (min-width: 960px) {
-    #colophon-inside section { border-right: 1px #8b8585 solid; }
+    #colophon-inside section { border-right: 1px #595353 solid; }
     #colophon-inside section:last-child { border-right-width: 0px } 
 }
 
