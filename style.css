@@ -4306,7 +4306,7 @@ span.entry-sticky {
 }
 
 .widget-container {
-	margin: 0 0 3.5em 0;
+	margin: 0 0 1.5em 0;
 	overflow: hidden;
 }
 
@@ -5060,7 +5060,7 @@ ul.cryout-wposts li:last-child {
 	float: left;
 	position: relative;
 	z-index: 7;
-	height: 3.5em;
+	height: 3em;
 	width: 100%;
 	padding: 0 1em 0 3em;
 	font-size: 1em;
