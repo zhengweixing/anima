@@ -524,7 +524,7 @@ if ( empty( $anima_contentbackground ) ) {  ?> #primary, #colophon { border: 0; 
 article.hentry .article-inner,
 #content-masonry article.hentry .article-inner {
 		padding: <?php echo esc_html( $anima_elementpadding ) ?>%;
-		padding:10px;
+		padding-top:10px;
 }
 
 <?php if ( $anima_elementpadding ) { ?>

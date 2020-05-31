@@ -2159,10 +2159,8 @@ article.hentry .post-thumbnail-container > .responsive-featured-image {
 }
 
 .anima-elementshadow #site-header-main,
-.anima-elementshadow article.hentry,
 .anima-elementshadow .pad-container,
 .anima-elementshadow .sidey,
-.anima-elementshadow .page-numbers:not(.dots),
 .anima-elementshadow #cryout_ajax_more_trigger {
 	box-shadow: 0 0 0.5em 0.1em rgba(0, 0, 0, 0.05);
 }
@@ -6782,4 +6780,11 @@ body.mobile .main {min-height:0;}
 @media (min-width: 960px) {
     #colophon-inside section { border-right: 1px #8b8585 solid; }
     #colophon-inside section:last-child { border-right-width: 0px } 
+}
+
+.elementor-pagination {
+    padding: 10px;
+}
+.elementor-pagination .page-numbers {
+    padding:5px;
 }
