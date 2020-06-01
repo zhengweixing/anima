@@ -630,8 +630,7 @@ a:visited {
 }
 
 #content-masonry {
-	margin-right: -3%;
-	margin-left: -3%;
+
 }
 
 .sidey {
@@ -2119,7 +2118,10 @@ article.hentry .post-thumbnail-container > .responsive-featured-image {
 }
 
 .anima-magazine-one #content-masonry article.hentry {
-	width: 94%;
+	padding:5px;
+	border: 1px solid silver;
+	-moz-box-shadow: 2px 2px 2px #d9d7d7; /* 老的 Firefox */
+    box-shadow: 2px 2px 2px #d9d7d7;
 }
 
 .anima-magazine-two #content-masonry article.hentry {
@@ -5468,7 +5470,6 @@ a.continue-reading-link {
 	float: right;
 	position: relative;
 	overflow: hidden;
-	line-height: 3;
 	padding: 0 1.4em;
 	color: inherit;
 	-webkit-transition: all .2s ease-out;
